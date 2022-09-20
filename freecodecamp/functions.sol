@@ -14,6 +14,6 @@ contract SimpleStorage{
     // pure and view doesn't costs gas but if a gas calling function calls them then it will cost gas
 
     function retrieve() public view returns(uint256){         // view and pure function disallows modification of state
-        return favouriteNumber;                               // so we couldn't update our favouriteNumber
+        return favouriteNumber;                               // so we can't update our favouriteNumber
     }
 }
