@@ -6,6 +6,7 @@ pragma solidity ^0.8.8;
 
 contract SimpleStorage{
     uint256 public favouriteNumber;
+    int band;
 
     function store(uint256 _favouriteNumber) public{
         favouriteNumber = _favouriteNumber;
