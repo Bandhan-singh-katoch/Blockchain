@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// array, structure, mapping...
+// array, structure, mapping..
 
 pragma solidity ^0.8.8;
 

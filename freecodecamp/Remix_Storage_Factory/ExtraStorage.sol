@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// Inheritance in solidity
+// Inheritance in solidity..
 
 pragma solidity ^0.8.8;
 import './SimpleStorage.sol';

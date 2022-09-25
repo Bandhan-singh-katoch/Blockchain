@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-// types and function
+// types and function in solidity
 
 pragma solidity ^0.8.8;
 

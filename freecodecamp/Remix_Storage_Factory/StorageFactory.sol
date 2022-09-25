@@ -11,7 +11,7 @@ contract StorageFactory{
     }
 
     function sfStore(uint256 _simpleStorageIndex, uint256 _simpleStorageNumber) public{
-        //Address and ABI required (ABI is coming with import)
+        //Address and ABI required (ABI is coming with import)...
         simpleStorageArray[_simpleStorageIndex].store(_simpleStorageNumber);
     }
     
